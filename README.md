@@ -23,6 +23,7 @@ This Bash script facilitates the synchronization of files between a local machin
 2. Run the script:
 
     ```bash
+    chmod +x remote_sync_script.sh
     ./remote_sync_script.sh
     ```
 
