@@ -16,8 +16,8 @@ This Bash script facilitates the synchronization of files between a local machin
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Lalatenduswain/remote-sync-script.git
-    cd remote-sync-script
+    git clone https://github.com/Lalatenduswain/RSync-Remote-Server-Synchronization-Script.git
+    cd RSync-Remote-Server-Synchronization-Script
     ```
 
 2. Run the script:
